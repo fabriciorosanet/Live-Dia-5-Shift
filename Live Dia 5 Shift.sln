@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live Dia 5 Shift", "Live Dia 5 Shift.csproj", "{77DF5C32-EC40-47DD-A5BC-519F9BF8E41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DF5C32-EC40-47DD-A5BC-519F9BF8E41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF5C32-EC40-47DD-A5BC-519F9BF8E41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF5C32-EC40-47DD-A5BC-519F9BF8E41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF5C32-EC40-47DD-A5BC-519F9BF8E41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C63084A-7877-455B-95D0-89267A946641}
+	EndGlobalSection
+EndGlobal
